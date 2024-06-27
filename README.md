@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Thiago Pierre Pasolini
 - 👀 I’m interested in Data Science, Data Engineering and Data Analytics
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on R, Tableau, Power BI and SQL projects
+- 💞️ I’m looking to collaborate on Python, R, Tableau, Power BI and SQL projects
 - 📫 How to reach me: https://www.linkedin.com/in/thiago-pierre-p-3a272a20/
 
 <!---
